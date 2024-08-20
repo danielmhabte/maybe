@@ -33,6 +33,7 @@ There are 3 primary ways to use the Maybe app:
 2. [One-click deploy](docs/hosting/one-click-deploy.md)
 3. [Self-host with Docker](docs/hosting/docker.md)
 
+
 ## Local Development Setup
 
 **If you are trying to _self-host_ the Maybe app, stop here. You
